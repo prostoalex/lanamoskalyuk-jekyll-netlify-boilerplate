@@ -38,5 +38,3 @@ Ingredients:
 10. Sprinkle with salt  
 11. Repeat with remaining batter.  
 12. Serve immediately, with sour cream on the side
-
-Игровые автоматы Вулкан в клубе Vulkan. Играйте в слот аппараты бесплатно или на реальные деньги в казино Вулкан. [автоматы онлайн](http://avtomatyonline.com) Слотспапа — лучшие игровые автоматы онлайн, возможность играть бесплатно без регистрации и смс. Для вас обзоры популярных онлайн казино,
