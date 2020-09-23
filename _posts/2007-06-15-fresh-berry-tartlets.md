@@ -1,35 +1,36 @@
 ---
-id: 281
+guid: http://lana.moskalyuk.com/recipe/281
+layout: post
+author: lana
+permalink: /recipe/281/
 title: Fresh Berry Tartlets
 date: 2007-06-15T15:39:00-08:00
-author: lana
-layout: post
-guid: http://lana.moskalyuk.com/recipe/281
-permalink: /recipe/281/
 ljID:
   - "411"
   - "411"
   - "411"
+id: 281
 categories:
   - Uncategorized
 ---
 <span id="post-414"></span>Ingredients: 
 
--Pâte Sucrée (Sweet Shortcrust Pastry):  
--1 cup all-purpose flour, plus more if needed  
--1/2 teaspoon salt  
--3 tablespoons confectioners’ sugar  
--1/2 cup unsalted butter, cut into small pieces  
+\-Pâte Sucrée (Sweet Shortcrust Pastry):\
+-1 cup all-purpose flour, plus more if needed\
+-1/2 teaspoon salt\
+-3 tablespoons confectioners’ sugar\
+-1/2 cup unsalted butter, cut into small pieces\
 -2 egg yolks beaten with 2 tablespoons iced water and 1/2 teaspoon vanilla extract
 
-Fruit for Tartlets:  
+Fruit for Tartlets:\
 -1 pound ripe small fruits (e.g. strawberries, raspberries, red currants, figs, grapes, etc.)
 
-Glaze:  
--4 tablespoons raspberry jam  
--2 tablespoons fruit juice  
-[<img align="left" alt="" src="http://lh6.google.com/image/svetlanat/RepxxkxdALI/AAAAAAAAACA/XvlMb_Nd0pg/s288/IMG_2151.JPG" />](http://picasaweb.google.com/svetlanat/HousewarmingParty/photo#5037964229665947826)  
-Instructions:  
+Glaze:\
+-4 tablespoons raspberry jam\
+-2 tablespoons fruit juice
+
+\
+Instructions:\
 Make Pâte Sucrée Pastry and Bake:
 
 1. In a food processor fitted with a metal blade, process the flour, salt, sugar and butter until fine crumbs form  
@@ -48,6 +49,7 @@ Make Pâte Sucrée Pastry and Bake:
 14. Cool on a wire rack
 
 Prepare the Fruit and Glaze:  
+
 1. Shortly before serving, melt the jam in a saucepan with the fruit juice over low heat  
 2. Strain the glaze if necessary
 
